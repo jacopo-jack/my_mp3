@@ -1,5 +1,7 @@
 android =".MP3Service"
 action ="com.example.androidmp3.action.PLAYPAUSE"
+scheme="content"
+mimetype="audio"
 path ="mp3path"
 class MP3Service extends Service{
 ib =new MP3Binder();
