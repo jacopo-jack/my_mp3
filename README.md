@@ -1,2 +1,2 @@
 # my_mp3
-Primo tentativo di creare un servizio in background per Android
+Primo tentativo di creare un'applicazione web, o servizio in background, per Android
