@@ -3,7 +3,7 @@ action ="com.example.androidmp3.action.PLAYPAUSE"
 scheme="content"
 mimetype="audio"
 path ="mp3path"
-class MP3Service extends Service{
+class MP3Service extends{
 ib =new MP3Binder();
 finalStringACTION_PLAYPAUSE = android.app.Service.extend(com.example.androidmp3.action.PLAYPAUSE);
 MediaPlayer= mp;
